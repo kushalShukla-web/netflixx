@@ -1,5 +1,6 @@
 <div align="center">
   # Netflix Clone
+  
   ![_99709950_english](https://github.com/kushalShukla-web/netflixx/assets/85934954/4b79fab4-f475-455e-9696-01ef9bd12d21)
 
 
