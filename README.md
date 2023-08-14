@@ -64,10 +64,6 @@ We welcome contributions to enhance the Netflix Clone project. If you find any b
 
 5. Open a pull request, describing the changes you've made.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was inspired by the Netflix user interface.
