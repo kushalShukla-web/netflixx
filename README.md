@@ -3,7 +3,7 @@
 ![_99709950_english](https://github.com/kushalShukla-web/netflixx/assets/85934954/8882f3ea-485d-42b1-b7e2-e3021b0753fb)
 
 
-Welcome to the Netflix Clone project! This is a stunning recreation of the Netflix user interface built on the foundation of cutting-edge technologies: React, Redux, Firebase, JavaScript, bootstrap and css . With this project, you can explore the world of modern web development and learn how to create a polished and dynamic streaming platform.
+Welcome to the Netflix Clone project! This is a stunning recreation of the Netflix user interface built on the foundation of cutting-edge technologies: React, Redux, Imdb API,Firebase, JavaScript, bootstrap and css . With this project, you can explore the world of modern web development and learn how to create a polished and dynamic streaming platform.
 
 ## Features
 
@@ -59,7 +59,7 @@ async function getMovieDetails(movieId) {
 }
 
 getMovieDetails('tt1234567');
-
+```
 ## Getting Started
 
 Follow these steps to get the Netflix Clone up and running on your local machine:
