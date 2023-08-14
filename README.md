@@ -1,37 +1,30 @@
-# Netflix Clone
+<div align="center">
+  <img src="project_banner.png" alt="Netflix Clone Banner">
 
-![Netflix Clone](project_screenshot.png) <!-- Replace with an actual screenshot of your project -->
+  # Netflix Clone
+  ![_99709950_english](https://github.com/kushalShukla-web/netflixx/assets/85934954/4b79fab4-f475-455e-9696-01ef9bd12d21)
 
-A clone of the popular streaming platform Netflix, built using React, Redux, and JavaScript. This project aims to replicate the core features and design of the original Netflix website.
 
-## Table of Contents
+  A stunning clone of the beloved streaming platform, Netflix, crafted using React, Redux, and JavaScript.
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+ • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Project Structure](#project-structure) • [Contributing](#contributing) • [License](LICENSE)
 
-## Demo
-
-![download](https://github.com/kushalShukla-web/netflixx/assets/85934954/79ce8286-abc6-4ebf-aa04-56acf2eaa0c7)
-
+  ![Project Preview](project_preview.png)
+</div>
 
 ## Features
 
-- User authentication and registration
-- Browse and search for movies and TV shows
-- Play trailers and videos
-- Dynamic content fetching from an API
-- User profile and watch history
-- Responsive design for various screen sizes
+- **User Authentication:** Register and log in to your personalized account.
+- **Dynamic Content:** Explore a rich collection of movies and TV shows.
+- **Streaming Trailers:** Watch trailers and video clips seamlessly.
+- **Search and Filter:** Discover content using search and filtering options.
+- **User Profiles:** Track your watch history and favorites.
+- **Responsive Design:** Enjoy a smooth experience on all devices.
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/your-username/netflixx.git
-   cd netflixx
+   git clone https://github.com/your-username/netflix-clone.git
+   cd netflix-clone
