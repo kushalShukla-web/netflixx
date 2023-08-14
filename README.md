@@ -1,7 +1,8 @@
+ # Netflix Clone
 <div align="center">
   <img src="project_banner.png" alt="Netflix Clone Banner">
 
-  # Netflix Clone
+ 
 
   A stunning clone of the beloved streaming platform, Netflix, crafted using React, Redux, and JavaScript.
 
