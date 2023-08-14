@@ -1,13 +1,14 @@
 <div align="center">
+<!--   <img src="project_banner.png" alt="Netflix Clone Banner"> -->
+    # Netflix Clone
   
-  # Netflix Clone
-  
-  ![_99709950_english](https://github.com/kushalShukla-web/netflixx/assets/85934954/4b79fab4-f475-455e-9696-01ef9bd12d21)
+![_99709950_english](https://github.com/kushalShukla-web/netflixx/assets/85934954/25bb9b1d-4c4f-41b7-916b-72db24ac36d4)
+
 
 
   A stunning clone of the beloved streaming platform, Netflix, crafted using React, Redux, and JavaScript.
 
- • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Project Structure](#project-structure) • [Contributing](#contributing) • [License](LICENSE)
+  [Demo](https://your-netflix-clone-demo-url.com) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Technologies](#technologies) • [Project Structure](#project-structure) • [Contributing](#contributing) • [License](LICENSE)
 
   ![Project Preview](project_preview.png)
 </div>
@@ -24,6 +25,11 @@
 ## Installation
 
 1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
+   cd netflix-clone
+
 
    ```bash
    git clone https://github.com/your-username/netflix-clone.git
