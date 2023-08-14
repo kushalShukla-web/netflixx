@@ -24,6 +24,7 @@ Welcome to the Netflix Clone project! This is a stunning recreation of the Netfl
 - **React:** A powerful JavaScript library for building user interfaces. Its component-based architecture facilitates reusable and modular code.
 
 - **Redux:** A predictable state container for JavaScript apps. Redux enables a centralized state management system, making data flow more manageable.
+![1_QERgzuzphdQz4e0fNs1CFQ](https://github.com/kushalShukla-web/netflixx/assets/85934954/aa8d21f7-0968-4ecc-b09f-e19171cf0711)
 
 - **Firebase:** Google's cloud-based platform that offers features like real-time databases, user authentication, and more. Firebase powers the backend of this application.
 
