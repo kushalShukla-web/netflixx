@@ -33,8 +33,8 @@ A clone of the popular streaming platform Netflix, built using React, Redux, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
+   git clone https://github.com/your-username/netflixx.git
+   cd netflixx
 
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
