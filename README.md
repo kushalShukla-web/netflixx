@@ -35,10 +35,3 @@ A clone of the popular streaming platform Netflix, built using React, Redux, and
    ```bash
    git clone https://github.com/your-username/netflixx.git
    cd netflixx
-
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
