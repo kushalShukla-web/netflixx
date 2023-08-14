@@ -33,6 +33,7 @@ Welcome to the Netflix Clone project! This is a stunning recreation of the Netfl
 - **CSS:** Cascading Style Sheets bring life to the application by providing stunning visuals and animations.
 
 - ## IMDb API Integration
+![imdb-website](https://github.com/kushalShukla-web/netflixx/assets/85934954/6635adac-8c6c-4a13-b8c1-f25945f95f05)
 
 This project uses the IMDb API to fetch movie and TV show data. To enable this feature:
 
