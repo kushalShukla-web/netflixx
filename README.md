@@ -32,6 +32,34 @@ Welcome to the Netflix Clone project! This is a stunning recreation of the Netfl
 
 - **CSS:** Cascading Style Sheets bring life to the application by providing stunning visuals and animations.
 
+- ## IMDb API Integration
+
+This project uses the IMDb API to fetch movie and TV show data. To enable this feature:
+
+1. Obtain an IMDb API key by signing up on the [IMDb API website](https://imdb-api.com/).
+
+2. Replace the placeholder API key in `src/services/imdbAPI.js` with your actual IMDb API key.
+
+3. You can then fetch movie and TV show data using the methods provided by `imdbAPI.js`.
+
+### Fetching Movie Details
+
+You can use the `fetchMovieDetails` function to fetch details about a specific movie:
+
+```javascript
+import { fetchMovieDetails } from './services/imdbAPI';
+
+async function getMovieDetails(movieId) {
+  try {
+    const movieData = await fetchMovieDetails(movieId);
+    console.log('Movie details:', movieData);
+  } catch (error) {
+    console.error('Error fetching movie details:', error);
+  }
+}
+
+getMovieDetails('tt1234567');
+
 ## Getting Started
 
 Follow these steps to get the Netflix Clone up and running on your local machine:
