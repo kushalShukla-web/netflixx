@@ -17,7 +17,8 @@ A clone of the popular streaming platform Netflix, built using React, Redux, and
 
 ## Demo
 
-[Live Demo](https://your-netflix-clone-demo-url.com) <!-- Replace with the actual demo URL -->
+![download](https://github.com/kushalShukla-web/netflixx/assets/85934954/79ce8286-abc6-4ebf-aa04-56acf2eaa0c7)
+
 
 ## Features
 
